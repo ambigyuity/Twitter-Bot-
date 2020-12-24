@@ -7,3 +7,8 @@ Implementation with Twitter: Using a live twitter client, the bot connects to th
 
 Libraries: tweepy, tensorflow
 
+REQUIREMENTS:
+tweepy
+tensorflow
+GPU for Tensorflow (OPTIONAL)
+
